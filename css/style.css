@@ -78,12 +78,16 @@ img {
 }
 
 .btn {
-  display: inline;
+  /* display: inline; */
   cursor: pointer;
   background: #000;
   color: #fff;
-  /* margin-top: 2rem; */
-  padding: 0.8rem 1.8rem;
+  /* margin-top: 5em; */
+  padding: 0.1em 1.2em;
+}
+.small {
+  font-size: medium;
+  margin-top: 3px;
 }
 
 .btn:hover {
